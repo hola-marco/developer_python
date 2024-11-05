@@ -11,4 +11,12 @@ Es eficiente y fácil de aprender,además de  que se puede ejecutar en muchas pl
 * Integración con otros lenguajes de programación conocidos,comojava,c y c++
 * Buen y rápido soporte de la comunidad.
 * Python se puede trasladar a través de diferentes sistemas operativos de  computadora,como   windows,macOS,Linux y Unix
-
+> # Fundamentos de Programación en Python
+* !Bienvenido! En este  archivo,aprenderás los fundamentos básicos de programación en Python.Este es el primer paso para convertirte en un programador.!Empecemos!
+## 1. Variables
+Las variables son "cajas" donde podemos almacenar información.En Python se crean de manera sencilla:
+>##### nombre="juan"
+>##### edad=25
+>##### altura=1.75
+En este ejemplo
+- 'nombre' almacena una cadena
