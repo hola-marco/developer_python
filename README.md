@@ -19,4 +19,6 @@ Las variables son "cajas" donde podemos almacenar información.En Python se crea
 >##### edad=25
 >##### altura=1.75
 En este ejemplo
-- 'nombre' almacena una cadena
+
+>* ##### nombre :   almacena una cadena  de texto (string) "juan"
+
