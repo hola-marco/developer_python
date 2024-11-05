@@ -24,7 +24,7 @@ En este ejemplo
 
 >* ##### nombre :   almacena una cadena  de texto (string) "juan"
 
-
+![alt text](image.png)
 
 
 # Developer Python
@@ -59,7 +59,4 @@ En este ejemplo:
 nombre: almacena una cadena de texto (string) "juan"
 edad: almacena un número entero (int) 25
 altura: almacena un número decimal (float) 1.75
-markdown
-Copiar código
-
-### 2. **Agregar extensiones de co
+![alt text](image.png)
