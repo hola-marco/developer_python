@@ -1,3 +1,4 @@
+.![alt text](image.png)
 # developer_python
 >This repository is dedicated to making code in Python
 # Clase 1
@@ -59,4 +60,3 @@ En este ejemplo:
 nombre: almacena una cadena de texto (string) "juan"
 edad: almacena un número entero (int) 25
 altura: almacena un número decimal (float) 1.75
-![alt text](image.png)
