@@ -62,9 +62,4 @@ altura: almacena un número decimal (float) 1.75
 markdown
 Copiar código
 
-### 2. **Agregar extensiones de colores en Visual Studio Code**
-Para resaltar o colorear el texto en Visual Studio Code, puedes usar las siguientes extensiones que permiten personalizar el texto en Markdown o colorear bloques de código:
-
-- **Markdown Preview Enhanced**: Muestra una vista previa enriquecida de tu archivo Markdown con colores y estilos avanzados.
-- **Markdown All in One**: Añade características como tablas de contenido y autocompletado, pero también mejora la experiencia de Markdown en general.
-- **Better Comments**: Para colorear comentarios y añadir más estilo en bloques de código
+### 2. **Agregar extensiones de co
